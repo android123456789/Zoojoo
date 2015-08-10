@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zoojee</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="minutes_played_txt">Minutes Played</string>
+	<string name="minutes_number">245</string>
+	<string name="relax_nw_btn_txt">Relax Now</string>
+	<string name="get_going_btn_txt">Get Going</string>	
+	<string name="claim_power_txt">Claim a Powerup.</string>
+	<string name="did_something_txt">Did something amazing?</string>
+	<string name="all_challenges_txt">All Challenges</string>
+	<string name="quick_updates_txt">Quick updates.</string>
+	<string name="swipe_left_right">Swipe Left for yes, and right for no.</string>
+</resources>

@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <dimen name="header_layout_height">50dp</dimen>
+    <dimen name="header_navigation_bar">10dp</dimen>
+	
+    <dimen name="footer_layout_height">60dp</dimen>
+    
+    <dimen name="music_icon_width">30dp</dimen>
+    <dimen name="music_icon_height">30dp</dimen>
+    <dimen name="music_left_padding">10dp</dimen>
+    
+    <dimen name="minutes_txt_size">15sp</dimen>
+    <dimen name="minutes_txt_left_padding">10dp</dimen>
+    <dimen name="minutes_number_txt">20sp</dimen>
+    
+    <dimen name="relax_nw_btn_width">120dp</dimen>
+    <dimen name="relax_nw_btn_height">50dp</dimen>
+    <dimen name="relax_nw_btn_right_padding">5dp</dimen>
+    <dimen name="relax_nw_btn_txt_size">12sp</dimen>
+    
+    <dimen name="power_up_height_layout">100dp</dimen>
+    
+    <dimen name="electric_power_right_padding">10dp</dimen>
+    
+    <dimen name="get_going_txt_size">12sp</dimen>
+    <dimen name="get_going_btn_padding">10dp</dimen>
+    <dimen name="get_going_btn_left_padding">10dp</dimen>
+    <dimen name="claim_power_txt_size">20sp</dimen>
+    <dimen name="did_something_txt_size">12sp</dimen>
+    
+    <dimen name="all_challenges_txt_size">15sp</dimen>
+    <dimen name="quick_updates_txt_size">15sp</dimen>
+    <dimen name="swipe_left_right_txt_size">12sp</dimen>
+    
+</resources>
